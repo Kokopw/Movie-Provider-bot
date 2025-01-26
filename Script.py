@@ -247,7 +247,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="https://telegram.me/MovizTube">{file_name}</a></i>\n\n"""
+    CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Strangerthing50">𝘾𝙝𝙖𝙧𝙡𝙞𝙚 𝙈𝙤𝙫𝙞𝙚𝙨</a>」</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
@@ -275,7 +275,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ @TheMovieProviderBot</b>"""
+Bʏ @CharlieWatson1</b>"""
 
     LOGO = """
 
@@ -297,8 +297,8 @@ BOT WORKING PROPERLY"""
 ● <code>150₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>200₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code> msg him -> @Jatin_24x </code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegram.me/jatin_24x'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code> msg him -> charliewatson@axl </code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZNX.jpg'> ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -314,8 +314,8 @@ BOT WORKING PROPERLY"""
 ● <code>150₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>200₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code> msg him -> @Jatin_24x </code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegram.me/jatin_24x'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code> msg him -> charliewatson@axl </code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZNX.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -402,7 +402,7 @@ BOT WORKING PROPERLY"""
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/DeletedFromEarth'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/charliewatson@axl'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -413,7 +413,7 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>msg him -> @jatin_24x</code>
+💵 ᴜᴘɪ ɪᴅ - <code>msg him -> charliewatson@axl</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -421,7 +421,7 @@ BOT WORKING PROPERLY"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegram.me/jatin_24x'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZNX.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -435,15 +435,15 @@ BOT WORKING PROPERLY"""
 ● <code>150₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>200₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>text him and ask for upi/qr -> @jatin_24x code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegram.me/jatin_24x'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+💵 ᴜᴘɪ ɪᴅ - <code>text him and ask for upi/qr -> charliewatson@axl code>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/ZNX.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""    
 
     DEVELOPER_TXT = """
-special Thanks To Blank ❤️ Developer -
+special Thanks To Charlie ❤️ Developer -
 
--Dev [Owner of this bot ]<a href='https://t.me/ultroidxTeam'>Blank</a>
+-Dev [Owner of this bot ]<a href='https://t.me/CharlieWatson1'>ᴄʜᴀʀʟɪᴇ ʙʀᴏ</a>
 """
